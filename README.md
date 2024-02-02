@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Digital IC Design Engineer</h2>
+<h2 align="left">Digital Design Engineer</h2>
 
 ###
 
